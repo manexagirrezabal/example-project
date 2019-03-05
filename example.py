@@ -1,5 +1,10 @@
 import sys
 
+def subtract (x,y):
+    """
+    Returns the subtraction of x from y
+    """
+    return x - y
 
 def some_function(x, y):
     """
